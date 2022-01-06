@@ -1,0 +1,2 @@
+--> I used Mongodb as database,provided settings in settings.py in for postgre, if your system has postgre. 
+--> Superuser password and id is admin (Not Necessary for this project)
